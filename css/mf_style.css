@@ -1,0 +1,188 @@
+.page_content {
+    padding: 20px
+}
+
+.mf_logo {
+    width: 150px;
+    height: 80px;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 60px;
+    background: url("//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1447442105000/mf_icon.png") no-repeat;
+    background-size: contain
+}
+
+.mf_logo:hover {
+    background: url("//codecloud.cdn.speedyrails.net/sites/59357f206e6f6466b84f0000/image/png/1500583203000/MF logo-02.png") no-repeat;
+    background-size: contain
+}
+
+.wrapper section h1 {
+    margin-bottom: 1em
+}
+
+#our_work center {
+    padding: 30px
+}
+
+#our_work h2 {
+    margin: 0px
+}
+
+#team_skills,
+#team_approach,
+#app_dev,
+#web_dev,
+#cms_dev,
+#ai_dev {
+    padding-top: 0px
+}
+
+#team_skills img,
+#team_approach img,
+#app_dev img,
+#web_dev img,
+#cms_dev img,
+#ai_dev img {
+    max-width: 100%;
+    max-height: 100%
+}
+
+.slick-slider {
+    margin: 10px 5%
+}
+
+.slick-slide {
+    overflow: hidden;
+    margin: 40px 20px;
+    box-shadow: 0px 0px 5px 4px #C0C0C0
+}
+
+.slick-slide img {
+    z-index: -1;
+    position: relative
+}
+
+.slick-center {
+    width: 200%;
+    box-shadow: 0px 0px 5px 4px #5ac3d6;
+    background-color: initial
+}
+
+.center img {
+    max-width: 100%;
+    max-height: 100%
+}
+
+.prev {
+    display: block;
+    height: 30px;
+    width: 30px;
+    background: url(//codecloud.cdn.speedyrails.net/sites/5914aa456e6f642702040000/image/png/1494597988000/bg_direction_nav.png) no-repeat scroll 0 0 transparent;
+    float: left;
+    position: absolute;
+    top: 50%;
+    left: 1%
+}
+
+.next {
+    display: block;
+    height: 30px;
+    width: 30px;
+    background: url(//codecloud.cdn.speedyrails.net/sites/5914aa456e6f642702040000/image/png/1494597988000/bg_direction_nav.png) no-repeat scroll -30px 0 transparent;
+    float: right;
+    position: absolute;
+    top: 50%;
+    right: 1%
+}
+
+.img_box_shadow {
+    box-shadow: 0px 0px 10px 8px #888888
+}
+
+.dev_content {
+    font-size: 15px;
+    line-height: 1.67;
+    letter-spacing: -0.3px;
+    color: #5a5a5a
+}
+
+.dev_title {
+    font-size: 50px;
+    font-weight: 300;
+    color: #2d2d2d;
+    margin: 0 0 30px
+}
+
+.client_image {
+    border-radius: 5px;
+    padding: 5px;
+    max-width: 235px
+}
+
+.no_padding {
+    padding: 0
+}
+
+.no_margin {
+    margin: 0
+}
+
+.margin_100 {
+    margin-top: 60px
+}
+
+.team_tab_image {
+    width: 650px
+}
+
+.row-centered {
+    text-align: center
+}
+
+.col-centered {
+    display: inline-block;
+    float: none;
+    text-align: left;
+    margin-right: -4px
+}
+
+.gamma-single-view {
+    margin-top: 80px
+}
+
+.gamma-single-view .gamma-description-wrapper {
+    position: relative
+}
+
+.gamma-single-view button {
+    padding: initial;
+    line-height: initial;
+    color: #fff !important
+}
+
+.gamma-description h3 {
+    margin: auto
+}
+
+@media screen and (max-width: 736px) {
+    .wrapper section h1 {
+        margin-bottom: 0.5em
+    }
+    #one {
+        padding-bottom: 2em
+    }
+    #our_work center {
+        padding-bottom: 0px
+    }
+    #team_members {
+        padding-top: 4em
+    }
+    .slick-list {
+        overflow: scroll
+    }
+    .prev,
+    .next {
+        display: none !important
+    }
+}
