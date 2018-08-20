@@ -2181,14 +2181,9 @@ hr {
     display: block;
 }
 
-.quotes>article:nth-child(odd) {
-    padding-left: calc(50vw - 40em);
-    padding-right: 3em;
-}
-
-.quotes>article:nth-child(even) {
-    padding-left: 3em;
-    padding-right: calc(50vw - 40em);
+.quotes>article{
+    padding-right: 10em;
+    padding-left: 10em;
 }
 
 .quotes>article:before {
@@ -3160,7 +3155,7 @@ header p {
 
 header h1+p {
     font-size: 1.5em;
-    margin-top: -2.65em;
+    margin-top: -1.65em;
 }
 
 header h2+p {
@@ -3296,7 +3291,7 @@ table.alt tbody tr td {
 /* Wrapper */
 
 .wrapper {
-    padding: 7.5em 0 5.5em 0;
+    padding: 4.5em 0 4.5em 0;
     position: relative;
 }
 
@@ -4316,7 +4311,7 @@ table.alt tbody tr td {
     -ms-justify-content: center;
     justify-content: center;
     background-attachment: fixed;
-    background-image: url("http://assets.codecloudapp.com/sites/59357f206e6f6466b84f0000/image/png/1500408298000/pexels-photo-485279.png");
+    background-image: url("../images/main.jpg");
     background-position: bottom left;
     background-size: cover;
     border-top: solid 10px #5ac3d6;

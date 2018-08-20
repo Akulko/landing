@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'FontAwesome';
-    src: url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.eot?v=4.6.3');
-    src: url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000/application/font-woff/1485058400000/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000/image/svg+xml/1485058400000/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+    src: url('fonts/fontawesome-webfont.eot?v=4.6.3');
+    src: url('fonts/s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000/application/font-woff/1485058400000/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000//1485058400000/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('//s3.amazonaws.com/kodekloud/sites/59357f206e6f6466b84f0000/image/svg+xml/1485058400000/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
     font-weight: normal;
     font-style: normal
 }
